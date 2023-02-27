@@ -1,2 +1,2 @@
-# ChristianBunyi-github.io
+# ChristianBunyi.github.io
 Gaming content 
