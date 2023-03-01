@@ -1,33 +1,34 @@
-<!DOCTYPE html>
+
 <html>
-<head>
-<title>Gaming Landing Page</title>
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-<div class="hero-image">
-  <div class="hero-text">
-    <h1>Welcome to the World of Gaming!</h1>
-    <p>We have the best gaming experience for you!</p>
-    <button>Start Gaming</button>
-  </div>
-</div>
-
-<div class="container">
-  <div class="row">
-    <div class="col-3">
-      <img src="game1.jpg" alt="Game 1">
-    </div>
-    <div class="col-3">
-      <img src="game2.jpg" alt="Game 2">
-    </div>
-    <div class="col-3">
-      <img src="game3.jpg" alt="Game 3">
-    </div>
-  </div>
-</div>
-
-<div class="features">
-  <h2>Our
-
+  <head>
+    <title>GitHub Gaming Codes</title>
+    <style>
+      body {
+        font-family: sans-serif;
+        font-size: 20px;
+        background-color: #F8F8F8;
+      }
+      h1 {
+        font-size: 36px;
+        color: #0071c5;
+        text-align: center;
+      }
+      .container {
+        width: 960px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      .box {
+        width: 100%;
+        border-radius: 5px;
+        background-color: #FAFAFA;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>GitHub Gaming Codes</h1>
+      <div class="box">
+        <p>Welcome to GitHub Gaming! Here you can find codes and resources for a variety of gaming projects.</p>
+        <p>Browse our library of codes to
