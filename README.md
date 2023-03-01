@@ -1,4 +1,3 @@
-
 <html>
   <head>
     <title>GitHub Gaming Codes</title>
